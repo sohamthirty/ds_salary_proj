@@ -1,3 +1,11 @@
+'''
+Author:  wizrox 
+code used: https://github.com/wizrox/dsSlryProj/blob/master/glassdoor_scrapper.py
+original author: Ömer Sakarya , Oct 15, 2019
+git : https://github.com/arapfaik/scraping-glassdoor-selenium
+original tutorial: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+'''
+
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
